@@ -7,14 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="candy-kata" />
-        <module name="company-kata" />
         <module name="pet-kata" />
         <module name="pet-kata-solutions" />
+        <module name="converter-method-kata" />
+        <module name="company-kata-solutions" />
+        <module name="converter-method-kata-solutions" />
+        <module name="company-kata" />
+        <module name="candy-kata-solutions" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="candy-kata" target="11" />
+      <module name="candy-kata-solutions" target="11" />
       <module name="company-kata" target="11" />
+      <module name="company-kata-solutions" target="11" />
+      <module name="converter-method-kata" target="11" />
+      <module name="converter-method-kata-solutions" target="11" />
       <module name="eclipse-collections-kata" target="11" />
       <module name="eclipse-collections-kata-parent" target="11" />
       <module name="pet-kata" target="11" />

@@ -11,10 +11,7 @@ bin
 .project
 
 # IntelliJ IDEA ignores
-.idea/modules.xml
-.idea/workspace.xml
-.idea/libraries
-.idea/gradle.xml
+.idea
 *.iml
 *.ipr
 *.iws
